@@ -1,1 +1,2 @@
 # informatika-unhashed
+tlacitko Prihlasit se na strance login je prihlaseni jako admin, ktery muze zadavat do users.php uzivatele, aby se pak mohli taky prihlasit (pres to tlacitko na login.php výš než to "prihlasit se")
